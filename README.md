@@ -5,7 +5,7 @@ Diseño y construcción de prototipo conceptual de ornitóptero, robot aéreo de
   <img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/logo_sinfondo.png" width="700" />
 </div>
 
-Toda l información técnica del proyecto queda recogida en el informe .pdf adjunto
+Toda la información técnica del proyecto queda recogida en el informe .pdf adjunto
 # RESUMEN
 Se trata de un trabajo que engloba distintos ámbitos: estudio aerodinámico, electrónica de potencia y de control, mecanismos de transmisión, cálculo de resistencia de estructura, y diseño del cuerpo y acople de piezas.
  
@@ -19,7 +19,8 @@ dentro de este ámbito.
 # SUBSISTEMAS
 **CUERPO**
 - Diseño funcional en partes desacoplables
-- Material poli
+- Material: policarbonato reforzado en planchas
+- Fabricación y diseño propio de todo el chasis
 
 <img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/cabeza.jpeg" width="700" />
 
