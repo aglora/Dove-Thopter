@@ -16,7 +16,22 @@ dentro de este ámbito.
 <img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/completo.jpeg" width="700" />
 
 # SUBSISTEMAS
+**CUERPO**
+- Diseño funcional en partes desacoplables
 
+<img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/cabeza.jpeg" width="700" />
+
+**ALAS**
+- Fibra de carbono y tela
+
+<img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/vistabaja.jpeg" width="700" />
+
+**TRANSMISION**
+- Diseñada y fabricada en baquelita y tecnología impresión 3D
+
+<img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/transmission.gif" width="500" />
+
+**COLA**
 
 # AGRADECIMIENTOS
 Colaboradores en el desarrollo de este proyecto:
