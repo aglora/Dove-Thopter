@@ -35,7 +35,7 @@ dentro de este ámbito.
 **COLA**
 - Mecanismo de cuatro barra con servomotoes y fibra de carbono
 
-<img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/cola.jpeg" width="700" />
+<img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/cola.jpg" width="700" />
 
 **ELECTRÓNICA**
 Componentes:
@@ -44,7 +44,7 @@ Componentes:
 - RECEPTOR RF*:  Jumper SF410 4CH 2.4 Ghz compatible con FUTABA
 - *SERVOMOTORES*: SG90 9 gramos
 
-<img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/baterias.jpeg" width="700" />
+<img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/baterias.jpg" width="700" />
 
 # AGRADECIMIENTOS
 Colaboradores en el desarrollo de este proyecto:
