@@ -43,8 +43,13 @@ Componentes:
 - *ESC*: Variador de velocidad bidireccional 20A RUIZHI
 - RECEPTOR RF*:  Jumper SF410 4CH 2.4 Ghz compatible con FUTABA
 - *SERVOMOTORES*: SG90 9 gramos
+- *BATERÍAS*: 3 celdas LiPo 3.7 V 600mAh
 
 <img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/baterias.jpg" width="700" />
+
+# VUELO GUIADO
+
+<img src="https://github.com/aglora/Dove-Thopter/blob/main/imgs/vueloguiado.gif" width="700" />
 
 # AGRADECIMIENTOS
 Colaboradores en el desarrollo de este proyecto:
